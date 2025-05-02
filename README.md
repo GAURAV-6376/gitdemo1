@@ -33,5 +33,11 @@ some command
 13.git pull origin main --rebase
 <br>
 14.git init --->it add repo from vs code to git
-
-
+<br>
+after git init we run 
+<br>
+15.git remote add origin <link of repo>
+16.git remote -v      (to verify remote)
+17.git branch   (to check branch )
+18.git branch -M main    (to rename branch )
+19.git push origin main
