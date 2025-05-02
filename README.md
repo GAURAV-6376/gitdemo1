@@ -24,6 +24,10 @@ some command
 <br>
 9.clear--->for clear the terminal
 <br>
-
+10.git add <file name>---> it add new ot changed files in your working directory to the git staging area
+<br>
+11.git commit -m "some msg"
+<br>
+12.git push origin main----->uplode local repo (on personal  laptop or pc) to remote repo(on github
 
 
