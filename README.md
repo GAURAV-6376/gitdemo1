@@ -29,5 +29,6 @@ some command
 11.git commit -m "some msg"
 <br>
 12.git push origin main----->uplode local repo (on personal  laptop or pc) to remote repo(on github
-
+<br>
+13.git pull origin main --rebase
 
