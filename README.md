@@ -31,4 +31,7 @@ some command
 12.git push origin main----->uplode local repo (on personal  laptop or pc) to remote repo(on github
 <br>
 13.git pull origin main --rebase
+<br>
+14.git init --->it add repo from vs code to git
+
 
